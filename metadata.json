@@ -1,0 +1,8 @@
+{
+  "name": "바이브코딩 (Vibe Coding)",
+  "description": "통합 기술 위키",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
